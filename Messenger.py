@@ -27,9 +27,9 @@ class Messenger(object):
 
     #database params
     dbHost = None
-    dbPort = 2638
-    dbUser = "dba"
-    dbPassword = "sql"
+    dbPort = #db port (numeral)
+    dbUser = "" #db user
+    dbPassword = "" #db pw
     dbDatabase = None
 
     #general params
